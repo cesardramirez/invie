@@ -1,2 +1,2 @@
 # invie
-Proyecto de Platzi para el curso de Desarrollo Web Online - Invie
+Platzi - Desarrollo Web Online - Invie
